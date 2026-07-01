@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Office / editor lock & temp files
+~$*
+*.tmp
+*.bak
+.~lock.*#
+
+# Local working notes not for publication
+SETUP-INSTRUCTIONS.md
+MISSING-FILES.md
+/private/
+/scratch/
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+
+# claude-flow / ruflo tooling artifacts
+.claude-flow/
+.ruflo/
+.swarm/
+.hive-mind/

@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: The OIA Reference Model (Open Intelligence Architecture)
+message: >-
+  If you reference or build upon the OIA Reference Model, please cite it using
+  the metadata below.
+type: dataset
+authors:
+  - given-names: Mark
+    family-names: Templeton
+    affiliation: Agentics Foundation
+abstract: >-
+  The Open Intelligence Architecture (OIA) is a vendor-neutral reference model
+  for the security, sovereignty, and governance of enterprise intelligent
+  systems. It describes ten layers (numbered 0-9), seven cross-layer spans,
+  three defining properties of intelligent systems, and four named threat
+  surfaces of the agentic era, together with a Lens System of audience-specific
+  overlays. The model is additive to existing frameworks (OSI, NIST CSF,
+  NIST AI RMF, MITRE ATLAS, OWASP LLM, ISO/IEC 42001) rather than competitive
+  with them.
+keywords:
+  - reference architecture
+  - enterprise AI
+  - AI security
+  - agentic systems
+  - AI governance
+  - confidential computing
+  - AI sovereignty
+license: CC-BY-4.0
+version: "0.5"
+date-released: "2026-01-01"
+repository-code: "https://github.com/markt-heximal/oia-model"
+url: "https://github.com/markt-heximal/oia-model"
