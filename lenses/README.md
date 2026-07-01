@@ -13,13 +13,21 @@ coherent, restrained enough to be clear.
 - **`OIA-CISO-Lens-v0.5.docx`** — the CISO Lens (the most fully developed). Seven lenses on three axes —
   *Threat* (AI as Amplifier / Domain / Attacker), *Operational* (AI as Defender / Asset / Workforce),
   *Foundational* (AI as Trustless). Anchors: NIST CSF, NIST AI RMF, MITRE ATLAS/D3FEND, OWASP LLM, CCC.
+- **`OIA-CIO-CTO-Lens-v0.5.md`** — the CIO/CTO Lens (technology organisation). Six lenses on three axes —
+  *Structural* (AI as Stack / Boundary), *Operational* (AI as Service / Spend), *Governance* (AI as Managed
+  System / Continuity). Anchors: TOGAF, ITIL/SRE, FinOps, ISO/IEC 42001, cloud well-architected frameworks.
+  Reads the layers as a partner-territory vs. own-stack capital-allocation map.
+- **`OIA-Board-and-Risk-Lens-v0.5.md`** — the Board and Risk Lens (directors, audit/risk, CROs). Six lenses on
+  three axes — *Accountability* (AI as Fiduciary Duty / Disclosure), *Oversight* (AI as Managed Risk / Audited
+  System), *Exposure* (AI as Regulated System / Sovereign Exposure). Anchors: NIST AI RMF, ISO/IEC 42001,
+  EU AI Act, SEC/FCA disclosure, Caremark. **Inverts the model** — reads spans-first, layers as substrate.
 
 ## Published lenses
 
 - **CISO Lens** — security organisation (present here).
-- **CIO/CTO Lens** — technology organisation (anchors: TOGAF, ITIL, FinOps, ISO/IEC 42001, SRE). *To add.*
+- **CIO/CTO Lens** — technology organisation (anchors: TOGAF, ITIL, FinOps, ISO/IEC 42001, SRE). Present here.
 - **Board and Risk Lens** — directors/audit/risk; inverts the model (spans primary, layers substrate)
-  (anchors: NIST AI RMF, ISO/IEC 42001, EU AI Act, SEC/FCA, Caremark). *To add.*
+  (anchors: NIST AI RMF, ISO/IEC 42001, EU AI Act, SEC/FCA, Caremark). Present here.
 
 ## Anticipated lenses
 
