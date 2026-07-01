@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="914" viewBox="0 0 1180 914" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif">
+  <defs><marker id="ar" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 z" fill="#c8102e"/></marker></defs>
+  <rect x="0" y="0" width="1180" height="914" fill="#ffffff"/>
+    <rect x="0" y="0" width="1180" height="96" fill="#14213d"/>
+  <text x="44" y="50" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="27" font-weight="700" fill="#ffffff">The OIA — Four Named Threat Surfaces</text>
+  <text x="44" y="78" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="14.5" fill="#aeb9d0">Where the threats of the agentic era originate and propagate</text>
+  <text x="1136" y="60" text-anchor="end" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="12" fill="#8592b0">AGENTICS FOUNDATION · OIA v0.5</text>
+  <rect x="60" y="150" width="560" height="62" rx="7" fill="#e8edf5" stroke="#9aa8c4" stroke-width="1"/>
+  <circle cx="90" cy="181" r="17" fill="#14213d"/>
+  <text x="90" y="186" text-anchor="middle" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="16" font-weight="700" fill="#ffffff">9</text>
+  <text x="122" y="178" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="15.5" font-weight="700" fill="#14213d">Human and Browser Interface</text>
+  <text x="122" y="197" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="11.5" fill="#33415c">The human/agent boundary; browser-as-agent-runtime</text>
+  <rect x="60" y="219" width="560" height="62" rx="7" fill="#dfe7f2" stroke="#9aa8c4" stroke-width="1"/>
+  <circle cx="90" cy="250" r="17" fill="#14213d"/>
+  <text x="90" y="255" text-anchor="middle" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="16" font-weight="700" fill="#ffffff">8</text>
+  <text x="122" y="247" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="15.5" font-weight="700" fill="#14213d">Continuity Fabric</text>
+  <text x="122" y="266" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="11.5" fill="#33415c">Cognitive state, recovery, rollback, witness chains</text>
+  <rect x="60" y="288" width="560" height="62" rx="7" fill="#d6e0ee" stroke="#9aa8c4" stroke-width="1"/>
+  <circle cx="90" cy="319" r="17" fill="#14213d"/>
+  <text x="90" y="324" text-anchor="middle" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="16" font-weight="700" fill="#ffffff">7</text>
+  <text x="122" y="316" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="15.5" font-weight="700" fill="#14213d">Orchestration and Workflow</text>
+  <text x="122" y="335" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="11.5" fill="#33415c">Agentic tool-use, MCP, workflows — the locus of autonomy</text>
+  <rect x="60" y="357" width="560" height="62" rx="7" fill="#cdd9ea" stroke="#9aa8c4" stroke-width="1"/>
+  <circle cx="90" cy="388" r="17" fill="#14213d"/>
+  <text x="90" y="393" text-anchor="middle" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="16" font-weight="700" fill="#ffffff">6</text>
+  <text x="122" y="385" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="15.5" font-weight="700" fill="#14213d">Context and Knowledge</text>
+  <text x="122" y="404" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="11.5" fill="#33415c">Retrieval, grounding, RAG, context windows</text>
+  <rect x="60" y="426" width="560" height="62" rx="7" fill="#c4d2e6" stroke="#9aa8c4" stroke-width="1"/>
+  <circle cx="90" cy="457" r="17" fill="#14213d"/>
+  <text x="90" y="462" text-anchor="middle" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="16" font-weight="700" fill="#ffffff">5</text>
+  <text x="122" y="454" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="15.5" font-weight="700" fill="#14213d">Inference and Retrieval</text>
+  <text x="122" y="473" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="11.5" fill="#33415c">Model execution; continuous model trust scoring</text>
+  <rect x="60" y="495" width="560" height="62" rx="7" fill="#bbcbe2" stroke="#9aa8c4" stroke-width="1"/>
+  <circle cx="90" cy="526" r="17" fill="#14213d"/>
+  <text x="90" y="531" text-anchor="middle" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="16" font-weight="700" fill="#ffffff">4</text>
+  <text x="122" y="523" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="15.5" font-weight="700" fill="#14213d">Model Training and Adaptation</text>
+  <text x="122" y="542" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="11.5" fill="#33415c">Pre-training, fine-tuning, adaptation</text>
+  <rect x="60" y="564" width="560" height="62" rx="7" fill="#b2c4de" stroke="#9aa8c4" stroke-width="1"/>
+  <circle cx="90" cy="595" r="17" fill="#14213d"/>
+  <text x="90" y="600" text-anchor="middle" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="16" font-weight="700" fill="#ffffff">3</text>
+  <text x="122" y="592" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="15.5" font-weight="700" fill="#14213d">Agent Data Substrate</text>
+  <text x="122" y="611" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="11.5" fill="#33415c">Persistent agent data; the AI-Inside problem</text>
+  <rect x="60" y="633" width="560" height="62" rx="7" fill="#a9bdda" stroke="#9aa8c4" stroke-width="1"/>
+  <circle cx="90" cy="664" r="17" fill="#14213d"/>
+  <text x="90" y="669" text-anchor="middle" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="16" font-weight="700" fill="#ffffff">2</text>
+  <text x="122" y="661" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="15.5" font-weight="700" fill="#14213d">Sovereign Infrastructure</text>
+  <text x="122" y="680" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="11.5" fill="#33415c">Jurisdictional, operational, and energy sovereignty</text>
+  <rect x="60" y="702" width="560" height="62" rx="7" fill="#a0b6d6" stroke="#9aa8c4" stroke-width="1"/>
+  <circle cx="90" cy="733" r="17" fill="#14213d"/>
+  <text x="90" y="738" text-anchor="middle" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="16" font-weight="700" fill="#ffffff">1</text>
+  <text x="122" y="730" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="15.5" font-weight="700" fill="#14213d">Silicon Abstraction</text>
+  <text x="122" y="749" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="11.5" fill="#33415c">Portable runtimes; trusted-execution primitives (TEEs)</text>
+  <rect x="60" y="785" width="560" height="62" rx="7" fill="#8c9fc0" stroke="#14213d" stroke-width="1"/>
+  <circle cx="90" cy="816" r="17" fill="#14213d"/>
+  <text x="90" y="821" text-anchor="middle" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="16" font-weight="700" fill="#ffffff">0</text>
+  <text x="122" y="813" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="15.5" font-weight="700" fill="#14213d">Physical Compute</text>
+  <text x="122" y="832" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="11.5" fill="#33415c">The physical substrate: silicon, power, facilities</text>
+  <path d="M614 181 H638 V595 H614" fill="none" stroke="#c8102e" stroke-width="2.4" marker-end="url(#ar)"/><text x="646" y="388" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="12" font-weight="700" fill="#c8102e" transform="rotate(90 646 388)" text-anchor="middle">Mimicry  (L9→L7→L3)</text><rect x="56" y="317" width="568" height="4" fill="#b8860b" opacity="0.0"/><circle cx="598" cy="319" r="8" fill="#b8860b"/><rect x="56" y="455" width="568" height="4" fill="#7a3fa0" opacity="0.0"/><circle cx="598" cy="457" r="8" fill="#7a3fa0"/><path d="M48 150 h-10 v338 h10" fill="none" stroke="#2b5fb3" stroke-width="2.2"/><text x="30" y="319" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="12" font-weight="700" fill="#2b5fb3" transform="rotate(-90 30 319)" text-anchor="middle">Agent spoofing (Identity span, L5–L9)</text>
+  <rect x="770" y="150" width="252" height="250" rx="9" fill="#f4f6f9" stroke="#c9ced6"/>
+  <text x="784" y="174" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="13" font-weight="700" fill="#14213d">Four named threat surfaces</text>
+  <circle cx="788" cy="198" r="6" fill="#c8102e"/><text x="802" y="202" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="12" font-weight="700" fill="#1a1a1a">Mimicry</text><text x="784" y="220" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="10.5" fill="#33415c">human-vs-agent at every entry point</text>
+  <circle cx="788" cy="246" r="6" fill="#b8860b"/><text x="802" y="250" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="12" font-weight="700" fill="#1a1a1a">Agent-in-the-middle</text><text x="784" y="268" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="10.5" fill="#33415c">rogue MCP intermediary (SSL strip)</text>
+  <circle cx="788" cy="294" r="6" fill="#2b5fb3"/><text x="802" y="298" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="12" font-weight="700" fill="#1a1a1a">Agent spoofing</text><text x="784" y="316" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="10.5" fill="#33415c">inherited trust; the open question</text>
+  <circle cx="788" cy="342" r="6" fill="#7a3fa0"/><text x="802" y="346" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="12" font-weight="700" fill="#1a1a1a">Model compromise</text><text x="784" y="364" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="10.5" fill="#33415c">weight swap, drift, jailbreak, CVEs</text>
+  <text x="44" y="890" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="11" fill="#33415c">Three of the four originate or propagate through Layer 7; the fourth originates at Layer 5 — agentic-era security concentrates inside the operational stack, not at the perimeter.</text>
+</svg>

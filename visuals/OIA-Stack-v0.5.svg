@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="1044" viewBox="0 0 1180 1044" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif">
+  <defs><marker id="ar" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 z" fill="#c8102e"/></marker></defs>
+  <rect x="0" y="0" width="1180" height="1044" fill="#ffffff"/>
+    <rect x="0" y="0" width="1180" height="96" fill="#14213d"/>
+  <text x="44" y="50" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="27" font-weight="700" fill="#ffffff">The OIA Reference Model — The Stack</text>
+  <text x="44" y="78" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="14.5" fill="#aeb9d0">Ten layers, numbered 0–9, and seven cross-layer spans</text>
+  <text x="1136" y="60" text-anchor="end" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="12" fill="#8592b0">AGENTICS FOUNDATION · OIA v0.5</text>
+  <rect x="44" y="150" width="620" height="74" rx="7" fill="#e8edf5" stroke="#9aa8c4" stroke-width="1"/>
+  <circle cx="74" cy="187" r="17" fill="#14213d"/>
+  <text x="74" y="192" text-anchor="middle" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="16" font-weight="700" fill="#ffffff">9</text>
+  <text x="106" y="184" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="15.5" font-weight="700" fill="#14213d">Human and Browser Interface</text>
+  <text x="106" y="203" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="11.5" fill="#33415c">The human/agent boundary; browser-as-agent-runtime</text>
+  <rect x="44" y="232" width="620" height="74" rx="7" fill="#dfe7f2" stroke="#9aa8c4" stroke-width="1"/>
+  <circle cx="74" cy="269" r="17" fill="#14213d"/>
+  <text x="74" y="274" text-anchor="middle" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="16" font-weight="700" fill="#ffffff">8</text>
+  <text x="106" y="266" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="15.5" font-weight="700" fill="#14213d">Continuity Fabric</text>
+  <text x="106" y="285" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="11.5" fill="#33415c">Cognitive state, recovery, rollback, witness chains</text>
+  <rect x="44" y="314" width="620" height="74" rx="7" fill="#d6e0ee" stroke="#9aa8c4" stroke-width="1"/>
+  <circle cx="74" cy="351" r="17" fill="#14213d"/>
+  <text x="74" y="356" text-anchor="middle" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="16" font-weight="700" fill="#ffffff">7</text>
+  <text x="106" y="348" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="15.5" font-weight="700" fill="#14213d">Orchestration and Workflow</text>
+  <text x="106" y="367" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="11.5" fill="#33415c">Agentic tool-use, MCP, workflows — the locus of autonomy</text>
+  <rect x="44" y="396" width="620" height="74" rx="7" fill="#cdd9ea" stroke="#9aa8c4" stroke-width="1"/>
+  <circle cx="74" cy="433" r="17" fill="#14213d"/>
+  <text x="74" y="438" text-anchor="middle" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="16" font-weight="700" fill="#ffffff">6</text>
+  <text x="106" y="430" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="15.5" font-weight="700" fill="#14213d">Context and Knowledge</text>
+  <text x="106" y="449" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="11.5" fill="#33415c">Retrieval, grounding, RAG, context windows</text>
+  <rect x="44" y="478" width="620" height="74" rx="7" fill="#c4d2e6" stroke="#9aa8c4" stroke-width="1"/>
+  <circle cx="74" cy="515" r="17" fill="#14213d"/>
+  <text x="74" y="520" text-anchor="middle" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="16" font-weight="700" fill="#ffffff">5</text>
+  <text x="106" y="512" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="15.5" font-weight="700" fill="#14213d">Inference and Retrieval</text>
+  <text x="106" y="531" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="11.5" fill="#33415c">Model execution; continuous model trust scoring</text>
+  <rect x="44" y="560" width="620" height="74" rx="7" fill="#bbcbe2" stroke="#9aa8c4" stroke-width="1"/>
+  <circle cx="74" cy="597" r="17" fill="#14213d"/>
+  <text x="74" y="602" text-anchor="middle" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="16" font-weight="700" fill="#ffffff">4</text>
+  <text x="106" y="594" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="15.5" font-weight="700" fill="#14213d">Model Training and Adaptation</text>
+  <text x="106" y="613" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="11.5" fill="#33415c">Pre-training, fine-tuning, adaptation</text>
+  <rect x="44" y="642" width="620" height="74" rx="7" fill="#b2c4de" stroke="#9aa8c4" stroke-width="1"/>
+  <circle cx="74" cy="679" r="17" fill="#14213d"/>
+  <text x="74" y="684" text-anchor="middle" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="16" font-weight="700" fill="#ffffff">3</text>
+  <text x="106" y="676" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="15.5" font-weight="700" fill="#14213d">Agent Data Substrate</text>
+  <text x="106" y="695" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="11.5" fill="#33415c">Persistent agent data; the AI-Inside problem</text>
+  <rect x="44" y="724" width="620" height="74" rx="7" fill="#a9bdda" stroke="#9aa8c4" stroke-width="1"/>
+  <circle cx="74" cy="761" r="17" fill="#14213d"/>
+  <text x="74" y="766" text-anchor="middle" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="16" font-weight="700" fill="#ffffff">2</text>
+  <text x="106" y="758" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="15.5" font-weight="700" fill="#14213d">Sovereign Infrastructure</text>
+  <text x="106" y="777" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="11.5" fill="#33415c">Jurisdictional, operational, and energy sovereignty</text>
+  <rect x="44" y="806" width="620" height="74" rx="7" fill="#a0b6d6" stroke="#9aa8c4" stroke-width="1"/>
+  <circle cx="74" cy="843" r="17" fill="#14213d"/>
+  <text x="74" y="848" text-anchor="middle" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="16" font-weight="700" fill="#ffffff">1</text>
+  <text x="106" y="840" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="15.5" font-weight="700" fill="#14213d">Silicon Abstraction</text>
+  <text x="106" y="859" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="11.5" fill="#33415c">Portable runtimes; trusted-execution primitives (TEEs)</text>
+  <rect x="44" y="902" width="620" height="74" rx="7" fill="#8c9fc0" stroke="#14213d" stroke-width="1"/>
+  <circle cx="74" cy="939" r="17" fill="#14213d"/>
+  <text x="74" y="944" text-anchor="middle" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="16" font-weight="700" fill="#ffffff">0</text>
+  <text x="106" y="936" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="15.5" font-weight="700" fill="#14213d">Physical Compute</text>
+  <text x="106" y="955" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="11.5" fill="#33415c">The physical substrate: silicon, power, facilities</text>
+  <text x="676" y="943" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="11" fill="#33415c" transform="rotate(90 676 939.0)" text-anchor="middle">substrate</text>
+  <path d="M686 150 h10 v730 h-10" fill="none" stroke="#33415c" stroke-width="1.4"/><text x="714" y="515" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="12" font-weight="600" fill="#33415c" transform="rotate(90 714 515)" text-anchor="middle">the architectural stack (Layers 1–9)</text>
+  <rect x="754" y="150" width="236" height="820" rx="9" fill="#f4f6f9" stroke="#c9ced6"/><text x="768" y="172" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="13" font-weight="700" fill="#14213d">Seven cross-layer spans</text><circle cx="770" cy="194" r="5" fill="#c8102e"/><text x="784" y="198" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="12.5" fill="#1a1a1a">Security</text><circle cx="770" cy="314" r="5" fill="#1f7a4d"/><text x="784" y="318" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="12.5" fill="#1a1a1a">Sovereignty</text><circle cx="770" cy="434" r="5" fill="#b8860b"/><text x="784" y="438" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="12.5" fill="#1a1a1a">Auditability</text><circle cx="770" cy="554" r="5" fill="#2b5fb3"/><text x="784" y="558" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="12.5" fill="#1a1a1a">Identity</text><circle cx="770" cy="674" r="5" fill="#5a5a5a"/><text x="784" y="678" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="12.5" fill="#1a1a1a">Energy &amp; Environmental</text><circle cx="770" cy="794" r="5" fill="#7a3fa0"/><text x="784" y="798" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="12.5" fill="#1a1a1a">Provenance</text><circle cx="770" cy="914" r="5" fill="#0f766e"/><text x="784" y="918" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="12.5" fill="#1a1a1a">Verifiability <tspan fill="#c8102e" font-weight="700">(new)</tspan></text><text x="768" y="956" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="10" fill="#33415c">thread vertically through the layers</text>
+  <text x="44" y="1020" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="11" fill="#33415c">Bottom-up numbering (OSI convention). Layer 0 is the physical substrate beneath the architectural stack. Additive to OSI, NIST, MITRE, OWASP, CCC, ISO/IEC 42001.</text>
+</svg>

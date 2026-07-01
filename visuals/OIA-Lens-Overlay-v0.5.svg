@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="894" viewBox="0 0 1040 894" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif">
+  <defs><marker id="ar" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 z" fill="#c8102e"/></marker></defs>
+  <rect x="0" y="0" width="1040" height="894" fill="#ffffff"/>
+    <rect x="0" y="0" width="1040" height="96" fill="#14213d"/>
+  <text x="44" y="50" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="27" font-weight="700" fill="#ffffff">The OIA Lens System — Lens Overlay</text>
+  <text x="44" y="78" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="14.5" fill="#aeb9d0">One invariant architecture, read by three executive audiences</text>
+  <text x="996" y="60" text-anchor="end" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="12" fill="#8592b0">AGENTICS FOUNDATION · OIA v0.5</text>
+  <path d="M298 220 C 260 220, 260 180, 300 180" fill="none" stroke="#c8102e" stroke-width="1.3" opacity="0.55"/><path d="M298 220 C 260 220, 260 314, 300 314" fill="none" stroke="#c8102e" stroke-width="1.3" opacity="0.55"/><path d="M298 220 C 260 220, 260 448, 300 448" fill="none" stroke="#c8102e" stroke-width="1.3" opacity="0.55"/><path d="M298 220 C 260 220, 260 582, 300 582" fill="none" stroke="#c8102e" stroke-width="1.3" opacity="0.55"/><path d="M298 460 C 260 460, 260 247, 300 247" fill="none" stroke="#1f7a4d" stroke-width="1.3" opacity="0.55"/><path d="M298 460 C 260 460, 260 314, 300 314" fill="none" stroke="#1f7a4d" stroke-width="1.3" opacity="0.55"/><path d="M298 460 C 260 460, 260 582, 300 582" fill="none" stroke="#1f7a4d" stroke-width="1.3" opacity="0.55"/><path d="M298 460 C 260 460, 260 649, 300 649" fill="none" stroke="#1f7a4d" stroke-width="1.3" opacity="0.55"/><path d="M298 460 C 260 460, 260 716, 300 716" fill="none" stroke="#1f7a4d" stroke-width="1.3" opacity="0.55"/><line x1="750" y1="150" x2="750" y2="746" stroke="#2b5fb3" stroke-width="3"/><text x="758" y="418" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="11" font-weight="700" fill="#2b5fb3" transform="rotate(90 758 418)" text-anchor="middle">spans as primary axis</text><path d="M780 330 C 860 330, 790 247, 750 247" fill="none" stroke="#2b5fb3" stroke-width="1.3" opacity="0.55"/>
+  <rect x="300" y="150" width="440" height="60" rx="7" fill="#e8edf5" stroke="#9aa8c4" stroke-width="1"/>
+  <circle cx="330" cy="180" r="17" fill="#14213d"/>
+  <text x="330" y="185" text-anchor="middle" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="16" font-weight="700" fill="#ffffff">9</text>
+  <text x="362" y="177" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="15.5" font-weight="700" fill="#14213d">Human and Browser Interface</text>
+  <text x="362" y="196" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="11.5" fill="#33415c">The human/agent boundary; browser-as-agent-runtime</text>
+  <rect x="300" y="217" width="440" height="60" rx="7" fill="#dfe7f2" stroke="#9aa8c4" stroke-width="1"/>
+  <circle cx="330" cy="247" r="17" fill="#14213d"/>
+  <text x="330" y="252" text-anchor="middle" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="16" font-weight="700" fill="#ffffff">8</text>
+  <text x="362" y="244" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="15.5" font-weight="700" fill="#14213d">Continuity Fabric</text>
+  <text x="362" y="263" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="11.5" fill="#33415c">Cognitive state, recovery, rollback, witness chains</text>
+  <rect x="300" y="284" width="440" height="60" rx="7" fill="#d6e0ee" stroke="#9aa8c4" stroke-width="1"/>
+  <circle cx="330" cy="314" r="17" fill="#14213d"/>
+  <text x="330" y="319" text-anchor="middle" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="16" font-weight="700" fill="#ffffff">7</text>
+  <text x="362" y="311" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="15.5" font-weight="700" fill="#14213d">Orchestration and Workflow</text>
+  <text x="362" y="330" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="11.5" fill="#33415c">Agentic tool-use, MCP, workflows — the locus of autonomy</text>
+  <rect x="300" y="351" width="440" height="60" rx="7" fill="#cdd9ea" stroke="#9aa8c4" stroke-width="1"/>
+  <circle cx="330" cy="381" r="17" fill="#14213d"/>
+  <text x="330" y="386" text-anchor="middle" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="16" font-weight="700" fill="#ffffff">6</text>
+  <text x="362" y="378" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="15.5" font-weight="700" fill="#14213d">Context and Knowledge</text>
+  <text x="362" y="397" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="11.5" fill="#33415c">Retrieval, grounding, RAG, context windows</text>
+  <rect x="300" y="418" width="440" height="60" rx="7" fill="#c4d2e6" stroke="#9aa8c4" stroke-width="1"/>
+  <circle cx="330" cy="448" r="17" fill="#14213d"/>
+  <text x="330" y="453" text-anchor="middle" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="16" font-weight="700" fill="#ffffff">5</text>
+  <text x="362" y="445" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="15.5" font-weight="700" fill="#14213d">Inference and Retrieval</text>
+  <text x="362" y="464" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="11.5" fill="#33415c">Model execution; continuous model trust scoring</text>
+  <rect x="300" y="485" width="440" height="60" rx="7" fill="#bbcbe2" stroke="#9aa8c4" stroke-width="1"/>
+  <circle cx="330" cy="515" r="17" fill="#14213d"/>
+  <text x="330" y="520" text-anchor="middle" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="16" font-weight="700" fill="#ffffff">4</text>
+  <text x="362" y="512" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="15.5" font-weight="700" fill="#14213d">Model Training and Adaptation</text>
+  <text x="362" y="531" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="11.5" fill="#33415c">Pre-training, fine-tuning, adaptation</text>
+  <rect x="300" y="552" width="440" height="60" rx="7" fill="#b2c4de" stroke="#9aa8c4" stroke-width="1"/>
+  <circle cx="330" cy="582" r="17" fill="#14213d"/>
+  <text x="330" y="587" text-anchor="middle" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="16" font-weight="700" fill="#ffffff">3</text>
+  <text x="362" y="579" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="15.5" font-weight="700" fill="#14213d">Agent Data Substrate</text>
+  <text x="362" y="598" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="11.5" fill="#33415c">Persistent agent data; the AI-Inside problem</text>
+  <rect x="300" y="619" width="440" height="60" rx="7" fill="#a9bdda" stroke="#9aa8c4" stroke-width="1"/>
+  <circle cx="330" cy="649" r="17" fill="#14213d"/>
+  <text x="330" y="654" text-anchor="middle" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="16" font-weight="700" fill="#ffffff">2</text>
+  <text x="362" y="646" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="15.5" font-weight="700" fill="#14213d">Sovereign Infrastructure</text>
+  <text x="362" y="665" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="11.5" fill="#33415c">Jurisdictional, operational, and energy sovereignty</text>
+  <rect x="300" y="686" width="440" height="60" rx="7" fill="#a0b6d6" stroke="#9aa8c4" stroke-width="1"/>
+  <circle cx="330" cy="716" r="17" fill="#14213d"/>
+  <text x="330" y="721" text-anchor="middle" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="16" font-weight="700" fill="#ffffff">1</text>
+  <text x="362" y="713" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="15.5" font-weight="700" fill="#14213d">Silicon Abstraction</text>
+  <text x="362" y="732" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="11.5" fill="#33415c">Portable runtimes; trusted-execution primitives (TEEs)</text>
+  <rect x="300" y="767" width="440" height="60" rx="7" fill="#8c9fc0" stroke="#14213d" stroke-width="1"/>
+  <circle cx="330" cy="797" r="17" fill="#14213d"/>
+  <text x="330" y="802" text-anchor="middle" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="16" font-weight="700" fill="#ffffff">0</text>
+  <text x="362" y="794" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="15.5" font-weight="700" fill="#14213d">Physical Compute</text>
+  <text x="362" y="813" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="11.5" fill="#33415c">The physical substrate: silicon, power, facilities</text>
+  <rect x="40" y="160" width="244" height="124" rx="10" fill="#ffffff" stroke="#c8102e" stroke-width="2"/>
+  <rect x="40" y="160" width="244" height="30" rx="10" fill="#c8102e"/>
+  <rect x="40" y="176" width="244" height="14" fill="#c8102e"/>
+  <text x="54" y="180" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="13.5" font-weight="700" fill="#ffffff">The CISO Lens</text>
+  <text x="54" y="206" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="10.5" font-weight="600" fill="#33415c">Security organisation</text>
+  <text x="54" y="226" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="10.5" fill="#1a1a1a">Threat · Amplifier/Domain/Attacker</text>
+  <text x="54" y="245" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="10.5" fill="#1a1a1a">Operational · Defender/Asset/Workforce</text>
+  <text x="54" y="264" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="10.5" fill="#1a1a1a">Foundational · Trustless</text>
+  <rect x="40" y="400" width="244" height="124" rx="10" fill="#ffffff" stroke="#1f7a4d" stroke-width="2"/>
+  <rect x="40" y="400" width="244" height="30" rx="10" fill="#1f7a4d"/>
+  <rect x="40" y="416" width="244" height="14" fill="#1f7a4d"/>
+  <text x="54" y="420" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="13.5" font-weight="700" fill="#ffffff">The CIO/CTO Lens</text>
+  <text x="54" y="446" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="10.5" font-weight="600" fill="#33415c">Technology organisation</text>
+  <text x="54" y="466" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="10.5" fill="#1a1a1a">Structural · Stack / Boundary</text>
+  <text x="54" y="485" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="10.5" fill="#1a1a1a">Operational · Service / Spend</text>
+  <text x="54" y="504" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="10.5" fill="#1a1a1a">Governance · Managed Sys / Continuity</text>
+  <rect x="780" y="270" width="244" height="144" rx="10" fill="#ffffff" stroke="#2b5fb3" stroke-width="2"/>
+  <rect x="780" y="270" width="244" height="30" rx="10" fill="#2b5fb3"/>
+  <rect x="780" y="286" width="244" height="14" fill="#2b5fb3"/>
+  <text x="794" y="290" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="13.5" font-weight="700" fill="#ffffff">The Board &amp; Risk Lens</text>
+  <text x="794" y="316" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="10.5" font-weight="600" fill="#33415c">Directors · audit · risk</text>
+  <text x="794" y="336" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="10.5" fill="#1a1a1a">Accountability · Fiduciary / Disclosure</text>
+  <text x="794" y="355" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="10.5" fill="#1a1a1a">Oversight · Managed Risk / Audited</text>
+  <text x="794" y="374" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="10.5" fill="#1a1a1a">Exposure · Regulated / Sovereign</text>
+  <text x="794" y="393" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="10.5" fill="#1a1a1a">reads SPANS-first (inverts model)</text>
+  <text x="296" y="136" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="12" font-weight="700" fill="#14213d">The OIA architecture (invariant)</text>
+  <text x="44" y="870" font-family="'Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="11" fill="#33415c">The architecture is invariant; each lens changes the language. Layer 8 (Continuity Fabric) emerges as a universal gap across every audience.</text>
+</svg>
