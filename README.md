@@ -78,8 +78,8 @@ trustworthiness is *dynamic* and must be continuously scored against current thr
 
 | Directory | Contents |
 |-----------|----------|
-| [`/model`](model/) | The canonical knowledge base and the **Reference Paper** — the authoritative statement of the architecture |
-| [`/lenses`](lenses/) | The **Lens System** — audience-specific overlays (CISO Lens, and the Lens Map) |
+| [`/model`](model/) | The **Canonical Knowledge Base** (Markdown SSOT) and the **Reference Paper** — the authoritative statement of the architecture |
+| [`/lenses`](lenses/) | The **Lens System** — audience-specific overlays (CISO, CIO/CTO, and Board & Risk lenses) |
 | [`/visuals`](visuals/) | Architectural diagrams — the Stack, Threat Surfaces, Lens Overlay, Framework-References map |
 | [`/executive`](executive/) | Executive-facing materials — one-page Overview, Executive Accessibility Draft, Thought-Leadership Deck |
 | [`/companion`](companion/) | Framing notes, the **v0.5 Architecture Lock**, decision logs, and historical/working materials |
@@ -89,9 +89,12 @@ trustworthiness is *dynamic* and must be continuously scored against current thr
 ## Where to start, by role
 
 - **Security architects / practitioners** → [`/model/OIA-Reference-Paper-v0.5.pdf`](model/), then the [`/lenses`](lenses/) CISO Lens.
-- **CISOs and security leaders** → [`/lenses/OIA-CISO-Lens-v0.5.docx`](lenses/) and the CISO Lens Map.
+- **CISOs and security leaders** → the [CISO Lens](lenses/OIA-CISO-Lens-v0.5.md).
+- **CIOs / CTOs** → the [CIO/CTO Lens](lenses/OIA-CIO-CTO-Lens-v0.5.md).
+- **Directors, audit & risk** → the [Board and Risk Lens](lenses/OIA-Board-and-Risk-Lens-v0.5.md).
 - **Executives and boards** → [`/executive/OIA-Overview-v0.5.pdf`](executive/) and the Executive Accessibility Draft.
 - **Framework / standards people** → [`/visuals/OIA-Architecture-with-Framework-References-v0.5.pdf`](visuals/).
+- **RAG / tooling** → [`/model/OIA-Canonical-Knowledge-Base-v0.5.md`](model/OIA-Canonical-Knowledge-Base-v0.5.md).
 - **Contributors and reviewers** → the [`/companion/OIA-v0.5-Architecture-Lock.pdf`](companion/) is the canonical spec against which all family documents are checked.
 
 ## Versioning and governance
