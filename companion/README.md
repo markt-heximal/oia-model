@@ -14,6 +14,7 @@ coherent, and the working materials that produced it.
 ## Historical / working materials (v0.1 era)
 
 - **`OIA-Model-v0.1-Decision-Log-Digest.docx`** — condensed decision log.
+- **`oia-model-v0_1-digest.docx`** — a fuller reader's digest of the v0.1 model.
 - **`OIA-Model-v0.1-Working-Session-Deck.pptx`** — the working-session deck behind the v0.1 model.
 - **`OIA-Model-Presentation-early.pptx`** — an early presentation of the model.
 - **`OIA-Model-agenticsfdn-deck.pdf`** — an Agentics Foundation deck of the model.

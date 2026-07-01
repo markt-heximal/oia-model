@@ -1,35 +1,54 @@
 # Acknowledgments
 
-The OIA Reference Model is a body of work with many contributors. The architecture is stronger for the
-practitioners who pressure-tested it, the executives who read early drafts in their own vocabulary, and
-the institutions whose perspectives shaped the lenses.
+*The OIA Reference Model is the product of many minds. The work is better for all of it. Any errors that remain are the author's.*
 
-## Author
+## Foundational thinking
 
-**Mark Templeton** — author of the OIA Reference Model and the Lens System.
+The architectural foundation builds on the agentic infrastructure thinking of **Reuven Cohen**, primary author of the body of work that the OIA extends. Reuven's early framing of what agentic systems require at the infrastructure level shaped how the OIA thinks about Layers 3, 7, and 8 in particular.
 
-## Architectural foundation
+## Practitioner review and pressure-testing
 
-**Reuven Cohen** (ruvnet) — founder of the Agentics Foundation and author of the agentic-infrastructure
-thinking the OIA builds on. Reuven wrote the Foreword to the v0.1 model.
+The v0.1 through v0.6 arc absorbed input from practitioners who read drafts, pressure-tested claims, and told the author where the model was right and where it was not:
 
-## Pressure-testers and reviewers
+- **John McKinley** — practitioner perspective on the security and identity treatment
+- **Greg Lavender** — pressure-testing across the full architecture
+- The **CISO colleagues** who read drafts and grounded the security-specific claims in field reality
 
-**John McKinley** and **Greg Lavender**, together with CISO colleagues and practitioners who stress-tested
-the architecture against real deployments. The seven refinements absorbed into v0.5 emerged directly from
-this pressure-testing.
+The v0.6 refinements absorbed external review that reshaped the OSI framing (from architectural template to industry-vocabulary proof point), surfaced the secondary domain-organization view (infrastructure, lifecycle, runtime, operational controls), and informed the sharpened weight-protection treatment at Layers 4 and 5 in composition with RAND's *Securing AI Model Weights* (2024).
 
-## Contributing perspectives
+## Partner organizations
 
-The lenses and the architecture were sharpened by customer and partner perspectives from friends at
-**Arista Networks, Nutanix, Proofpoint, Reltio, Thoma Bravo,** and **ACIUM**. Their engagement helped
-ensure the model is drawn against the shape of the problem rather than any single role's perspective.
+The customer and partner perspectives that grounded the architecture in real deployment came from friends at:
 
-## Institutional home
+- **Arista Networks**
+- **Nutanix**
+- **Proofpoint** — whose pressure-test of v0.1 produced the sharpest challenges and shaped several v0.5 refinements: the four named threat surfaces, the three-actor Identity framing, the AI-Inside problem at Layer 3, and the Verifiability span
+- **Reltio**
+- **Thoma Bravo**
+- **ACIUM**
 
-Published by the **Agentics Foundation** as an open, vendor-neutral reference.
+Each contributed technological insights, customer perspectives, and the sage advice that comes from people who have actually had to ship enterprise software at scale.
+
+## External work the OIA composes with
+
+The OIA is additive to and composes with the work of many others. Specific acknowledgment is due to:
+
+- **NIST** — for the Cybersecurity Framework and the AI Risk Management Framework
+- **MITRE** — for ATT&CK, ATLAS, and D3FEND
+- **OWASP** — for the Top 10 for LLM Applications
+- **The Confidential Computing Consortium** and its member organizations — for the hardware-attested execution primitives that anchor the Verifiability span
+- **ISO/IEC** — for 42001
+- **RAND Corporation** — and the co-authors of *Securing AI Model Weights* (2024): Sella Nevo, Dan Lahav, Ajay Karpur, Yogev Bar-On, Henry Alexander Bradley, and Jeff Alstott — for the threat model framing that informed the v0.6 weight-protection treatment
+- **The OSI reference model** — as the proof point that shared structural vocabulary can organize an industry
+
+## Foundation
+
+The Agentics Foundation, under **Reuven Cohen** as CEO and founder, is the intended long-term steward of the OIA. The Foundation is currently considering adoption of the OIA as a Foundation reference. Regardless of adoption outcome, the Foundation's engagement with the work has shaped its ambition and its structural discipline.
 
 ---
 
-*The OIA is open. The Foundation invites the practitioner community to push back on what does not fit and
-to contribute to the model's continued refinement — see [CONTRIBUTING.md](../CONTRIBUTING.md).*
+*If you have contributed to the OIA and are not listed here, please open an issue or contact the maintainer — omissions are unintentional and will be corrected.*
+
+---
+
+*Maintained by Mark Templeton. Published by the Agentics Foundation.*
