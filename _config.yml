@@ -1,0 +1,9 @@
+title: The OIA Reference Model
+description: A vendor-neutral, ten-layer reference architecture for securing and governing enterprise AI.
+theme: jekyll-theme-cayman
+show_downloads: false
+exclude:
+  - SETUP-INSTRUCTIONS.md
+  - MISSING-FILES.md
+  - "*.docx"
+  - "*.pptx"

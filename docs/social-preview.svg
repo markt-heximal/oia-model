@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" font-family="'Helvetica Neue',Arial,sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#14213d"/>
+      <stop offset="1" stop-color="#26324f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="640" fill="url(#bg)"/>
+  <!-- mini stack motif on the right -->
+  <g transform="translate(880,120)">
+    <rect x="0" y="0"   width="300" height="34" rx="5" fill="#e8edf5" opacity="0.95"/>
+    <rect x="0" y="42"  width="300" height="34" rx="5" fill="#d6e0ee" opacity="0.92"/>
+    <rect x="0" y="84"  width="300" height="34" rx="5" fill="#c4d2e6" opacity="0.90"/>
+    <rect x="0" y="126" width="300" height="34" rx="5" fill="#b2c4de" opacity="0.88"/>
+    <rect x="0" y="168" width="300" height="34" rx="5" fill="#a0b6d6" opacity="0.86"/>
+    <rect x="0" y="210" width="300" height="34" rx="5" fill="#93a8ca" opacity="0.84"/>
+    <rect x="0" y="262" width="300" height="34" rx="5" fill="#8c9fc0" opacity="0.9" stroke="#ffffff" stroke-opacity="0.3"/>
+    <text x="150" y="316" text-anchor="middle" font-size="13" fill="#aeb9d0">Layer 0 · substrate</text>
+  </g>
+  <!-- title block -->
+  <text x="90" y="200" font-size="72" font-weight="700" fill="#ffffff">The OIA</text>
+  <text x="90" y="272" font-size="40" font-weight="600" fill="#aeb9d0">Reference Model</text>
+  <text x="90" y="332" font-size="23" fill="#dbe2ef">A vendor-neutral reference architecture for</text>
+  <text x="90" y="366" font-size="23" fill="#dbe2ef">securing and governing enterprise AI.</text>
+  <!-- key numbers -->
+  <g font-size="21" fill="#ffffff">
+    <text x="90" y="452" font-size="34" font-weight="700" fill="#8fb4ff">10</text>
+    <text x="90" y="480" fill="#aeb9d0" font-size="16">layers</text>
+    <text x="200" y="452" font-size="34" font-weight="700" fill="#8fb4ff">7</text>
+    <text x="200" y="480" fill="#aeb9d0" font-size="16">spans</text>
+    <text x="300" y="452" font-size="34" font-weight="700" fill="#8fb4ff">3</text>
+    <text x="300" y="480" fill="#aeb9d0" font-size="16">properties</text>
+    <text x="470" y="452" font-size="34" font-weight="700" fill="#8fb4ff">4</text>
+    <text x="470" y="480" fill="#aeb9d0" font-size="16">threat surfaces</text>
+  </g>
+  <line x1="90" y1="536" x2="1190" y2="536" stroke="#4a5878"/>
+  <text x="90" y="576" font-size="18" fill="#aeb9d0">Published by the Agentics Foundation</text>
+  <text x="1190" y="576" text-anchor="end" font-size="18" fill="#aeb9d0">CC BY 4.0 · v0.6.0</text>
+</svg>

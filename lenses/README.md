@@ -29,9 +29,19 @@ coherent, restrained enough to be clear.
 - **Board and Risk Lens** — directors/audit/risk; inverts the model (spans primary, layers substrate)
   (anchors: NIST AI RMF, ISO/IEC 42001, EU AI Act, SEC/FCA, Caremark). Present here.
 
-## Anticipated lenses
+## Anticipated lenses (draft v0.1 — author review pending)
 
-CFO · General Counsel & Compliance · CHRO — added as practitioner demand supports.
+Authored ahead of formal publication, to the Lens System methodology. Provided as Markdown + DOCX + PDF;
+each is marked as a draft to be reviewed and pressure-tested before it is treated as canonical.
+
+- **`OIA-CFO-Lens-v0.1-draft.md`** — finance organisation. Six lenses on three axes — *Capital* (CapEx /
+  OpEx), *Exposure* (Concentration Risk / Commitment), *Value* (Unit Economics / Portfolio). Anchor: FinOps.
+- **`OIA-General-Counsel-Lens-v0.1-draft.md`** — legal & compliance. *Liability* (Liable Actor / Output
+  Owner), *Regulatory* (Regulated System / Managed Compliance), *Evidence* (Provable Record / Sovereign
+  Obligation). Anchors: EU AI Act, ISO/IEC 42001.
+- **`OIA-CHRO-Lens-v0.1-draft.md`** — people organisation (agents as non-human workforce). *Workforce*
+  (Augmentation / Non-Human Workforce), *Governance* (Managed Headcount / Performance-Managed), *Capability*
+  (Reskilling / Culture and Trust). Anchors on Layers 7, 9, and the Identity span.
 
 ## Cross-audience finding
 
