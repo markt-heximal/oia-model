@@ -26,3 +26,6 @@ MISSING-FILES.md
 .ruflo/
 .swarm/
 .hive-mind/
+
+# RVF semantic vector store (regenerable via scripts/rvf-index.mjs)
+.rvf-store/
